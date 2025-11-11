@@ -1,2 +1,2 @@
 # Engenharia-e-Modelagem
-Entrega AV2
+Para rodar o projeto com Tkinter rode py AV5.py no terminal
